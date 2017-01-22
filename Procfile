@@ -1,1 +1,1 @@
-web: guru:app
+web:gunicorn guru:app
